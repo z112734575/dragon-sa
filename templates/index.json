@@ -1,1 +1,202 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-0":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/1_Banner-_Web.png","heading":"Superior GaN* Tech Bolder, Faster Charger.","heading_size":"h1","subheading":"","button_label":"Shop now","link":"","button_style_secondary":true,"box_align":"middle-left","show_text_box":true,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"inverse","text_alignment_mobile":"left"}},"slide-1":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/2_Banner-_Web.png","heading":"Hard Drive Enclosure, File Transfers in Flash.","heading_size":"h1","subheading":"","button_label":"Shop now","link":"","button_style_secondary":true,"box_align":"middle-right","show_text_box":true,"text_alignment":"left","image_overlay_opacity":0,"color_scheme":"inverse","text_alignment_mobile":"left"}},"7a2449fe-c4ed-4be6-8a2a-fe608a418773":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/3_Banner-Hub_Web.png","heading":"Get More Versatility From One Hub.","heading_size":"h1","subheading":"","button_label":"Shop now","link":"","button_style_secondary":true,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"inverse","text_alignment_mobile":"center"}}},"block_order":["slide-0","slide-1","7a2449fe-c4ed-4be6-8a2a-fe608a418773"],"custom_css":[".content-container {background: transparent;}"],"settings":{"layout":"full_bleed","slide_height":"adapt_image","slider_visual":"dots","auto_rotate":true,"change_slides_speed":5,"show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"featured-collection-0":{"type":"featured-collection","settings":{"title":"Featured products","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":4,"columns_desktop":4,"full_width":false,"show_view_all":false,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"background-1","image_ratio":"portrait","show_secondary_image":false,"show_vendor":false,"show_rating":false,"enable_quick_add":true,"columns_mobile":"2","swipe_on_mobile":false,"padding_top":60,"padding_bottom":60}},"c734aaa4-7db9-4e10-be3b-cf2eadfab2f8":{"type":"image-banner","blocks":{"template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-0":{"type":"heading","settings":{"heading":"Nexode 200W Desktop Charger","heading_size":"h1"}},"template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-1":{"type":"text","settings":{"text":"6 Ports Support Team Work","text_style":"body"}},"template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-2":{"type":"buttons","settings":{"button_label_1":"Shop now","button_link_1":"","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-0","template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-1","template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-2"],"custom_css":[".content-container {background: transparent;}"],"settings":{"image":"shopify:\/\/shop_images\/Nexode_200W_PC_98a652d8-9d73-4ad8-8a20-6ad7f743ba01.webp","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"inverse","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"71d5e1a5-bbe5-4ef6-99b2-af1262df9795":{"type":"collage","blocks":{"template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Businesses_pic_pc.png"}},"template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-1":{"type":"product","settings":{"product":"ugreen-100w-usb-c-charger","second_image":false}},"template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-2":{"type":"collection","settings":{"collection":"docking-stations"}}},"block_order":["template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-0","template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-1","template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-2"],"settings":{"heading":"Multimedia collage","heading_size":"h1","desktop_layout":"left","mobile_layout":"column","card_styles":"product-card-wrapper","color_scheme":"background-1","padding_top":36,"padding_bottom":36}}},"order":["slideshow","featured-collection-0","c734aaa4-7db9-4e10-be3b-cf2eadfab2f8","71d5e1a5-bbe5-4ef6-99b2-af1262df9795"]}
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_Banner-_Web.png",
+            "heading": "Superior GaN* Tech Bolder, Faster Charger.",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Shop now",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_Banner-_Web.png",
+            "heading": "Hard Drive Enclosure, File Transfers in Flash.",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Shop now",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "7a2449fe-c4ed-4be6-8a2a-fe608a418773": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_Banner-Hub_Web.png",
+            "heading": "Get More Versatility From One Hub.",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Shop now",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "slide-1",
+        "7a2449fe-c4ed-4be6-8a2a-fe608a418773"
+      ],
+      "custom_css": [
+        ".content-container {background: transparent;}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured-collection-0": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "c734aaa4-7db9-4e10-be3b-cf2eadfab2f8": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nexode 200W Desktop Charger",
+            "heading_size": "h1"
+          }
+        },
+        "template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-1": {
+          "type": "text",
+          "settings": {
+            "text": "6 Ports Support Team Work",
+            "text_style": "body"
+          }
+        },
+        "template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop now",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-0",
+        "template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-1",
+        "template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-2"
+      ],
+      "custom_css": [
+        ".content-container {background: transparent;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Nexode_200W_PC_98a652d8-9d73-4ad8-8a20-6ad7f743ba01.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "71d5e1a5-bbe5-4ef6-99b2-af1262df9795": {
+      "type": "collage",
+      "blocks": {
+        "template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/organized-workspace.jpg"
+          }
+        },
+        "template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-1": {
+          "type": "product",
+          "settings": {
+            "product": "ugreen-100w-usb-c-charger",
+            "second_image": false
+          }
+        },
+        "template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "docking-stations"
+          }
+        }
+      },
+      "block_order": [
+        "template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-0",
+        "template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-1",
+        "template--18095422308642__71d5e1a5-bbe5-4ef6-99b2-af1262df9795-16788826332596656c-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collection-0",
+    "c734aaa4-7db9-4e10-be3b-cf2eadfab2f8",
+    "71d5e1a5-bbe5-4ef6-99b2-af1262df9795"
+  ]
+}
