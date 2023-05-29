@@ -85,6 +85,9 @@
     },
     "related-products": {
       "type": "related-products",
+      "custom_css": [
+        ".price{display: none}"
+      ],
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
