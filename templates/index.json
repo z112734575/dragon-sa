@@ -78,6 +78,9 @@
     },
     "featured-collection-0": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price {display: none}"
+      ],
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
