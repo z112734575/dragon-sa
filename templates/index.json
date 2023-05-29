@@ -96,7 +96,7 @@
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": true,
+        "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 60,
@@ -122,6 +122,7 @@
         },
         "template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Shop now",
             "button_link_1": "",
