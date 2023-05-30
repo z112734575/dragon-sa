@@ -6,8 +6,8 @@
         "slide-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1200_628_e9d82b94-0c79-4951-b98d-c210325a2b73.jpg",
-            "heading": "Superior GaN* Tech Bolder, Faster Charger.",
+            "image": "shopify:\/\/shop_images\/1500_750.jpg",
+            "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
@@ -79,7 +79,7 @@
     "featured-collection-0": {
       "type": "featured-collection",
       "custom_css": [
-        ".price {display: none}"
+        ".price {display: none;}"
       ],
       "settings": {
         "title": "Featured products",
