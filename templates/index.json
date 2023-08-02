@@ -82,7 +82,7 @@
         ".price {display: none;}"
       ],
       "settings": {
-        "title": "Featured products",
+        "title": "Destaques",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -112,21 +112,21 @@
         "template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-0": {
           "type": "heading",
           "settings": {
-            "heading": "Nexode 200W Desktop Charger",
+            "heading": "Carregador Nexode 200W",
             "heading_size": "h1"
           }
         },
         "template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-1": {
           "type": "text",
           "settings": {
-            "text": "6 Ports Support Team Work",
+            "text": "Trabalhe em equipe com 6 portas",
             "text_style": "body"
           }
         },
         "template--18095422308642__c734aaa4-7db9-4e10-be3b-cf2eadfab2f8-16788816830127e0ea-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop now",
+            "button_label_1": "Compre agora",
             "button_link_1": "",
             "button_style_secondary_1": false,
             "button_label_2": "",

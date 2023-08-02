@@ -43,21 +43,21 @@
         "d659c8a7-ead6-45ef-b238-de92c20002a8": {
           "type": "link_list",
           "settings": {
-            "heading": "Products",
+            "heading": "Produtos",
             "menu": "products"
           }
         },
         "6143958a-ba8b-4738-9cab-0b561a399f40": {
           "type": "link_list",
           "settings": {
-            "heading": "About",
+            "heading": "Sobre a Ugreen",
             "menu": "sobre-a-ugreen"
           }
         },
         "427b4c3f-f78b-408a-b1e9-3607d12512e3": {
           "type": "link_list",
           "settings": {
-            "heading": "Service",
+            "heading": "Serviços",
             "menu": "service"
           }
         }
